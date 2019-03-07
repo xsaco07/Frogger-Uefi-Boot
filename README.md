@@ -1,7 +1,7 @@
 
 
 # Documentación Respectiva
-## Isaac Mena López - 2016130651 }
+## Isaac Mena López - Instituto Tecnológico de Costa Rica
 ### March 2019
 
 
